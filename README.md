@@ -84,12 +84,16 @@ Learn-AI/
 
 > Add screenshots of the following pages:
 
-- Login Screen
-- Home Screen
+  - Home Screen
+    <img width="747" height="1600" alt="WhatsApp Image 2026-07-08 at 10 29 29 PM" src="https://github.com/user-attachments/assets/1464ef1d-40b2-46d2-b39a-c105517b637e" />
 - Learning Dashboard
+  <img width="754" height="1600" alt="WhatsApp Image 2026-07-08 at 10 29 32 PM" src="https://github.com/user-attachments/assets/731f8e0a-8b20-4125-853b-10d2bebb3e9b" />
 - Learning Module
+  <img width="747" height="1600" alt="WhatsApp Image 2026-07-08 at 10 29 30 PM" src="https://github.com/user-attachments/assets/975ea4ea-ba6b-4f4a-a9d8-5bf831ccdea3" />
 - Quiz Page
+  <img width="750" height="1600" alt="WhatsApp Image 2026-07-08 at 10 29 31 PM" src="https://github.com/user-attachments/assets/23dc0231-2b71-4a1d-acdf-c823238430ca" />
 - Progress Dashboard
+  <img width="747" height="1600" alt="WhatsApp Image 2026-07-08 at 10 29 32 PM (1)" src="https://github.com/user-attachments/assets/ca7e6011-0afe-46ee-b92e-310a33bcd159" />
 
 ---
 
